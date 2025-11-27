@@ -1,10 +1,11 @@
 
-EX.NO-1
-CREATING A PRIVATE DATE: BLOCKCHAIN
-AIM
+# EX.NO-1
+# CREATING A PRIVATE DATE: BLOCKCHAIN
+# AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
-PROCEDURE
+
+# PROCEDURE
 
 ```
 1.Go to https //geth.ethereum.org/ and download the software for windows. While installing select
@@ -68,7 +69,7 @@ authrpc.port 8546 --networkid { NETWORK_ID } --unlock { ADDRESS_NODE2 } --passwo
 18.Save the file and go to deploy tab and click deploy.
 19.Node1 has deployed and added to blockchain.
 5
-PROGRAM
+# PROGRAM
 #Genesis file privateblock.json
 {
 "config" {
